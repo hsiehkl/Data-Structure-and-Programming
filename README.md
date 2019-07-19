@@ -6,13 +6,14 @@ Data Structure and Programming
 Course Information：[Syllabus](https://nol2.aca.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2031900&class=02&dpt_code=9010&ser_no=22203&semester=107-1&lang=EN)
 
 ## HW1: Stack
-### Problem 1: Implement the following functions of the stack.
-    * push(): Put the data in the top of the stack.
-    * pop(): Delete the data in the top of the stack.
-    * top(): View the data in the top of the stack.
-### Problem 2: Largest Rectangular Area of Buildings
-    * Today, school wants to make a huge advertising banner. Thus, we need to find out the largest rectangular area of buildings. The height of banner should not exceed any of buildings.
-    <img src="https://github.com/hsiehkl/Data-Structure-and-Programming/blob/master/programming_hw1/hw1_q2.png" width = "150"  align=center />
+#### Problem 1: Implement the following functions of the stack.
+    push(): Put the data in the top of the stack.
+    pop(): Delete the data in the top of the stack.
+    top(): View the data in the top of the stack.
+
+#### Problem 2: Largest Rectangular Area of Buildings
+Today, school wants to make a huge advertising banner. Thus, we need to find out the largest rectangular area of buildings. The height of banner should not exceed any of buildings.
+<img src="https://github.com/hsiehkl/Data-Structure-and-Programming/blob/master/programming_hw1/hw1_q2.png" width = "100"  align=center />
 
 + [Assignment Detail](https://github.com/hsiehkl/Data-Structure-and-Programming/blob/master/programming_hw1/programming_hw1.pdf)
 + [Solution](https://github.com/hsiehkl/Data-Structure-and-Programming/blob/master/programming_hw1/programming_hw1.py)
@@ -30,10 +31,11 @@ This programming assignment asks you to check if a given sequence can be a preor
 + [Solution](https://github.com/hsiehkl/Data-Structure-and-Programming/blob/master/programming_hw3/programming_hw3.py)
 
 ## HW4: Priority Queue
-This programming assignment asks you to implement a priority queue by a binary heap. The input contains three commands as follows:
-    * insert x: insert the number x into the heap.
-    * deleteMin: delete the minimum key from the heap. 
-    * findMin: find the minimum key in the heap. (Note that when findMin is performed, you should store the returned value.)
+This programming assignment asks you to implement a priority queue by a binary heap. The input contains three commands as follows (Note that when findMin is performed, you should store the returned value.):
+    
+    insert x: insert the number x into the heap.
+    deleteMin: delete the minimum key from the heap. 
+    findMin: find the minimum key in the heap.
 
 + [Assignment Detail](https://github.com/hsiehkl/Data-Structure-and-Programming/blob/master/programming_hw4/programming_hw4.pdf)
 + [Solution](https://github.com/hsiehkl/Data-Structure-and-Programming/blob/master/programming_hw4/programming_hw4.py)
