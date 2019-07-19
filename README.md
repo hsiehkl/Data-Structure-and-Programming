@@ -13,6 +13,8 @@ Course Information：[Syllabus](https://nol2.aca.ntu.edu.tw/nol/coursesearch/pri
 
 #### Problem 2: Largest Rectangular Area of Buildings
 Today, school wants to make a huge advertising banner. Thus, we need to find out the largest rectangular area of buildings. The height of banner should not exceed any of buildings.
+
+
 <img src="https://github.com/hsiehkl/Data-Structure-and-Programming/blob/master/programming_hw1/hw1_q2.png" width = "100"  align=center />
 
 + [Assignment Detail](https://github.com/hsiehkl/Data-Structure-and-Programming/blob/master/programming_hw1/programming_hw1.pdf)
